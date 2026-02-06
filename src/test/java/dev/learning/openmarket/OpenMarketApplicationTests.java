@@ -11,7 +11,7 @@ class OpenMarketApplicationTests {
 	}
 
 	void f(){
-
+          //Что-то добавил
 	}
 
 }
