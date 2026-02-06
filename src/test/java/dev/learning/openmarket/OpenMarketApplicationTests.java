@@ -10,4 +10,8 @@ class OpenMarketApplicationTests {
 	void contextLoads() {
 	}
 
+	void f(){
+
+	}
+
 }
